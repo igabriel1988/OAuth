@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AutentificaconToken2</string>
+    <string name="usuario">Usuario</string>
+    <string name="credenciales">Credenciales</string>
+    <string name="clave">Clave</string>
+    <string name="entrar">Entrar</string>
+    <string name="bienvenido">Bienvenido..</string>
+    <string name="cerrar_sesion">Cerrar sesion</string>
+    <string name="inscribirse">Inscribirse</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="file_preferencia">com.example.oauth.PREFERENCE_FILE_KEY</string>
+    <string name="login">Login</string>
+    <string name="token">Token</string>
+
+    <string name="facebook_app_id">868050394639148</string>
+    <string name="fb_login_protocol_scheme">fb868050394639148</string>
+    <string name="facebook_client_token">c30af4acc0885f6359bb14a599e8d745</string>
+
+</resources>
